@@ -1,10 +1,17 @@
 ## Hi! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Aleksankova_Anastasia's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Aleksankova%20Anastasia's+Github+Profile..)](https://git.io/typing-svg)
 
 I'm Anastasia and I'm a Frontend developer from Saint-Petersburg ✨
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="400"/>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+  </div>
+</div>
 
 ---
 
@@ -29,9 +36,4 @@ I'm Anastasia and I'm a Frontend developer from Saint-Petersburg ✨
 
 ---
 
-### 🌌 Aesthetic vibes:
-
-<img src="https://media.giphy.com/media/xUPGcgtKxm3fGWW2dy/giphy.gif" width="250"/>
-<img src="https://i.pinimg.com/originals/0f/89/2d/0f892db1fd6e1ec0a052fc29e0470f39.gif" width="300"/>
-<img src="https://64.media.tumblr.com/3a2d7929c8f1c1b1c0178e2e76020c70/45c8013a60dd982e-bf/s1280x1920/ab4d071e786e06b9f2a47882fb2ddcdb91d3e871.png" width="600"/>
 
