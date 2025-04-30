@@ -7,8 +7,10 @@ I'm Anastasia and I'm Frontend developer from Saint-Petersburg ✨
 <div id="header" align="start">
   <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="400"/>
 </div>
-- 🔭 I’m currently working on JavaScript, ReactJS.
+
+- 🔭 I’m currently working on JavaScript, ReactJS  
 - 💬 Ask me about music 🎸, animals 🐾 and swimming
+
 
 📨 Connect with me:
 - <a href="https://t.me/nastysha_clifford" target="blank">Telegram</a>
