@@ -6,10 +6,10 @@ I'm Anastasia and I'm a Frontend developer from Saint-Petersburg ✨
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="400"/>
+    <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="300" height="300" />
   </div>
   <div>
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="300" />
   </div>
 </div>
 
@@ -34,6 +34,5 @@ I'm Anastasia and I'm a Frontend developer from Saint-Petersburg ✨
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
 
 
