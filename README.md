@@ -7,6 +7,8 @@ I'm Anastasia and I'm Frontend developer from Saint-Petersburg ✨
 <div id="header" align="start">
   <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="400"/>
 </div>
+<img src="https://64.media.tumblr.com/3a2d7929c8f1c1b1c0178e2e76020c70/45c8013a60dd982e-bf/s1280x1920/ab4d071e786e06b9f2a47882fb2ddcdb91d3e871.png" width="600"/>
+
 
 - 🔭 I’m currently working on JavaScript, ReactJS  
 - 💬 Ask me about music 🎸, animals 🐾 and swimming
@@ -15,6 +17,9 @@ I'm Anastasia and I'm Frontend developer from Saint-Petersburg ✨
 📨 Connect with me:
 - <a href="https://t.me/nastysha_clifford" target="blank">Telegram</a>
 - <a href="alieksankova2002@mail.ru" target="blank">E-mail</a>
+
+<img src="https://i.pinimg.com/originals/0f/89/2d/0f892db1fd6e1ec0a052fc29e0470f39.gif" width="300"/>
+
 
 ### Technologies:
 <div>
