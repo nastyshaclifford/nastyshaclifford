@@ -4,7 +4,7 @@
 
 I'm Anastasia and I'm a Frontend developer from Saint-Petersburg ✨
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: start; align-items: center;">
   <div>
     <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="300" height="300" />
   </div>
