@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Aleksankova Anastasia's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Aleksankova_Anastasia's+Github+Profile..)](https://git.io/typing-svg)
 
 I'm Anastasia and I'm Frontend developer from Saint-Petersburg ✨
 
