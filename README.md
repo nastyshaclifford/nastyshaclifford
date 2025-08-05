@@ -15,7 +15,7 @@ I'm Anastasia and I'm a Frontend developer from Saint-Petersburg ✨
 
 ---
 
-- 🔭 I’m currently working on JavaScript, ReactJS  
+- 🔭 I’m currently working on JavaScript, ReactJS and now learning Next.js, Typescript.
 - 💬 Ask me about music 🎸, animals 🐾 and swimming
 
 📨 Connect with me:  
