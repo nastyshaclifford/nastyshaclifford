@@ -34,7 +34,7 @@ I'm Anastasia and I'm a Frontend developer from Saint-Petersburg
 
 ### My GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeni-ya&layout=compact&card_width=844)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyshaclifford&layout=compact&card_width=844)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
